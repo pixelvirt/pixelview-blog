@@ -1,4 +1,6 @@
-site_name: ''
+site_name: 'PixelView Blog'
+site_url: https://blog.pixelvirt.com
+
 theme:
   logo: images/logo.png
   favicon: images/favicon.ico
