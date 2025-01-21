@@ -57,6 +57,7 @@ nav:
   - Blogs:
       - Blog: 
           - blog/index.md
+  - Docs: https://docs.pixelvirt.com
 markdown_extensions:
   - admonition
   - pymdownx.details
