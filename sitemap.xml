@@ -2,26 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://blog.pixelvirt.com/</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blog.pixelvirt.com/blog/</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://blog.pixelvirt.com/blog/2025/05/22/introducing_pixelview_ai_sre_agent_your_intelligent_companion_for_multi-cloud_management/</loc>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blog.pixelvirt.com/blog/2025/01/17/why_pixelview_is_a_game-changer_for_automation_in_cloud_monitoring_and_incident_management/</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blog.pixelvirt.com/posts/</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blog.pixelvirt.com/blog/archive/2025/</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://blog.pixelvirt.com/blog/category/ai/</loc>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blog.pixelvirt.com/blog/category/general/</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-05-23</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
